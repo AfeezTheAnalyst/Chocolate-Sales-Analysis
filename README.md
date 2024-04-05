@@ -59,8 +59,58 @@ Product Demand: The company's products or services appear to be in high demand, 
 Client satisfaction: Based on the 6,722 ratings received, it appears that the business regularly solicits client input. By examining these ratings, one can gain knowledge about client satisfaction levels as well as areas where the quality of products or services could be improved.All things considered, these KPIs show that the business is operating profitably when it comes to revenue, acquiring new clients, and possibly even customer satisfaction. Nonetheless, more examination and juxtaposition with records or sector standards might be imperative to comprehensively comprehend the organization's functioning and recognize prospects for expansion and enhancement.
 
 2. ### Sales by Month:
-   **Parameters used: Geo, Amount, Month**
+**Parameters used: Geo, Amount, Month**
+![](SalesTrends.png)  
+Fig 2: Sales by Month
+
+From this data, we can observe fluctuations in sales throughout the year 2021. For example, there appears to be a peak in sales during March, May, and December, while sales may dip during June, July, and September. Analyzing these trends can help identify seasonal patterns, understand factors influencing sales performance, and make informed decisions regarding resource allocation, marketing strategies, and inventory management.
 
 
+3. ### Sales by Month:
+**Parameters used: Geo**
+| Regional Sales  | Color bars        |
+|-----------------|-------------------|
+![](Map...png)    | ![](ColorBar.png) |
+Fig 3: Sales by Country
 
+| Country     | Sales figure |
+|-------------|--------------|
+| India       |  $3,250,219  |
+| New Zealand |  $3,139,591  |
+| The UK      |  $3,079,538  | 
+| Canada      |  $3,060,050  | 
+| USA         |  $3,055,556  | 
 
+Insights: Several conclusions can be made from the sales data by nation that is provided:
+Regional Performance: The disparities in sales between the various nations reflect the differing degrees of market demand and regional economic circumstances.
+
+Crucial Markets: The exceptionally high sales figures in countries like India and the USA indicate that these are crucial markets with substantial potential for generating income.
+
+Geographic Spread: Information on the sales distribution among various nations can be gleaned about the client base and market penetration of a business.Market Opportunities: Lower sales numbers in some nations might point to unrealized market potential or growth prospects that could be achieved by focused marketing campaigns or expansion plans.
+
+Market Dynamics: Differences in sales between nations may be due to variations in consumer tastes, purchasing power, the level of competition, or market saturation.
+
+The analysis of sales data by nation can provide valuable insights for strategic decision-making processes, including pricing strategies, supply chain management, resource allocation, and foreign expansion initiatives. In general, firms can find opportunities, reduce risks, and streamline their operations to better serve a variety of global market segments by evaluating sales data by country.
+
+4. ### Sales by product category In Based on Region:
+**Horizontal Stacked Bar Char**
+
+| Regional Sales         | Legend            |
+|------------------------|-------------------|
+| ![](RegionalSales.png) | ![](Legend.png)   |
+Fig 4: Regional Sales by Category
+
+Cat Sales Per Region: The total sales amount for each category within each region is provided in this column. It shows the total amount of money made from sales in the given region for every category.
+Amount: The real sales amount expressed in monetary terms is shown in this column. It displays the amount of money made from the sale of each kind of product in each area.  
+
+![](SalesTable.png)  
+Sales table by Region
+
+Insights: The information makes it possible to examine sales results across various product categories and geographical areas. As an illustration: For every category, the Asia-Pacific area has the greatest sales numbers, suggesting that this area is a sizable market for the company's goods.
+There are differences in the sales performance of various product categories within each location. For example, bars and bites are more popularly sold in the Americas than other products.
+The information offers perceptions into consumer demand and geographical preferences for product categories, which can guide decisions about product creation, inventory control, and marketing tactics.
+
+In conclusion, a thorough understanding of the company's sales performance across various geographic areas and product offerings is made possible by the sales data by category and location that is presented.
+
+## FINAL DASHBOARD:
+![](FinalDashboard.png)
