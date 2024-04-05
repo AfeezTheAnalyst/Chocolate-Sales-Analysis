@@ -32,6 +32,8 @@ The primary areas of emphasis are broken down as follows:
 
 In general, the emphasis is on using data-driven insights to boost corporate performance, accelerate growth, and optimize sales methods. Strong capabilities for efficiently analyzing, visualizing, and communicating these insights to support decision-making processes are provided by Tableau.
 
+**Application in use: TABLEAU**
+
 ## Key Skills Demonstrated:
 * Using the Dynamic Parameter
 * Using calculated field
